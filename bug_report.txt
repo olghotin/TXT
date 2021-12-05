@@ -1,1 +1,10 @@
-
+ID: 1,
+Summary: Chat-the creator of a group conversation cannot rename it.
+Steps to reproduce:1. Open www.test.website.com. 
+                   2.Sing in: login - test_3/password - testtest. 
+                   3. Open a chat dialog with 'Test1 Testington'. 
+                   4. Click on the button 'Settings' - add user. 
+                   5. Add any user to a group conversation - click 'Done'. 
+                   6. Click againon 'Settings' to rename the group conversation.
+  Actual result: the btton 'Rename conversation' is disabled for the creator of the group conversation.
+  Expected result: all participants should be able to rename a group conversation.
