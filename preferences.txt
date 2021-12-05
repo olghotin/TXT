@@ -1,0 +1,5 @@
+favorite movie: Harry Potter
+favorite series: Sherlock Holmes
+favorite food: sushi
+favorite time of the year: summer
+the country yo wanted to visit: Spain

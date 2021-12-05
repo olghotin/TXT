@@ -1,0 +1,7 @@
+hard skills:
+- Terminal Linux
+- Git Hub
+- Postman
+- Charles
+- Jmeter
+- Android Studio
