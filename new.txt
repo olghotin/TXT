@@ -1,0 +1,4 @@
+name: Olga Vladimirovna Kontush
+age: 34
+pet: 0
+future desired salary: 1000
